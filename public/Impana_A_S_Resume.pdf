@@ -1,0 +1,205 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595 842]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica
+      >>
+      /F2 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica-Bold
+      >>
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 3816
+>>
+stream
+BT
+/F1 15 Tf
+40 790 Td
+(IMPANA A S) Tj
+/F1 9 Tf
+0 -16 Td
+(B.E. Computer Science & Engineering \(5th Sem, 3rd Year | 8.65 CGPA upto 4th Sem\) | BIET Davangere) Tj
+0 -13 Td
+(Email: impanaas25@gmail.com | GitHub: github.com/impanaas25-pixel | Davangere, Karnataka) Tj
+0 -10 Td
+(----------------------------------------------------------------------------------------------------) Tj
+/F2 10 Tf
+0 -15 Td
+(EDUCATION & ACADEMIC TRACK RECORD) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* B.E. in Computer Science & Engineering \(5th Sem, 3rd Year\) - 8.65 CGPA \(upto 4th Sem\)) Tj
+/F1 8 Tf
+0 -9.5 Td
+(  Bapuji Institute of Engineering & Technology \(BIET\), Davangere) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* Pre-University Education \(PUC / 12th Grade\) - 91.33%) Tj
+/F1 8 Tf
+0 -9.5 Td
+(  Anubhava Mantapa PU College, Davangere) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* Secondary Schooling \(10th Grade / SSLC\) - 93.12%) Tj
+/F1 8 Tf
+0 -9.5 Td
+(  Sri Taralabalu Jagadguru Residential School, Davangere) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F2 10 Tf
+0 -15 Td
+(LANGUAGES KNOWN) Tj
+/F1 8 Tf
+0 -9.5 Td
+(Kannada \(Native\), English \(Fluent\), Marathi \(Fluent\), Hindi \(Fluent\), German \(Basics\)) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F2 10 Tf
+0 -15 Td
+(TECHNICAL SKILLS) Tj
+/F1 8 Tf
+0 -9.5 Td
+(Programming Languages: C, Java, Python) Tj
+/F1 8 Tf
+0 -9.5 Td
+(Web & Backend: PERN Stack \(PostgreSQL, Express.js, React, Node.js\), Generative AI) Tj
+/F1 8 Tf
+0 -9.5 Td
+(Databases: PostgreSQL, Supabase) Tj
+/F1 8 Tf
+0 -9.5 Td
+(Tools & Platforms: Git, GitHub, VS 2022 Community, Railway, Render, Lovable, Replit, Vercel, OpenGL) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F2 10 Tf
+0 -15 Td
+(FEATURED PROJECTS) Tj
+/F1 8 Tf
+0 -9.5 Td
+(1. StudioYield - Job Schedule Optimizer) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   Role: Lead Developer | Stack: React, Node.js, Express.js, PostgreSQL, Supabase, Greedy Algorithms) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Implemented greedy algorithms to determine efficient job execution sequence & resource throughput.) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Status: Pushed to GitHub \(impanaas25-pixel/StudioYield\).) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F1 8 Tf
+0 -9.5 Td
+(2. Urban Flow - Eco-Tracker Platform) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   Role: Frontend & UI Developer | Stack: React, JavaScript, Node.js, Vercel) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Built responsive UI for waste management workflow with location-aware dispatching.) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Status: Collaborative Git Push to team repository.) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F1 8 Tf
+0 -9.5 Td
+(3. KalaSetu-AI - Generative AI Artisan Marketplace) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   Role: Team Member \(Team Code Coven\) | Stack: React, Node.js, Express.js, Supabase, Generative AI) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Integrated generative AI to automate multilingual catalog generation for rural artisans at BIET SIH.) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Status: Internal Hackathon Build \(Not Pushed to Public Git\).) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F1 8 Tf
+0 -9.5 Td
+(4. CraftSetu - Artisan Workspace Platform) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   Role: Full-Stack Developer \(Team Amethyst\) | Stack: React, JavaScript, Node.js, PostgreSQL, Tailwind CSS) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Created direct-to-consumer storefront and modular artisan catalog during Hackarena 1.0.) Tj
+/F1 8 Tf
+0 -9.5 Td
+(   * Status: Internal Hackarena Build \(Not Pushed to Public Git\).) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F2 10 Tf
+0 -15 Td
+(HACKATHONS & ACHIEVEMENTS) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* Smart India Internal Hackathon \(BIET Davangere\) - Team Member, Team Code Coven \(KalaSetu-AI\)) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* Hackarena 1.0 \(BIET Davangere\) - Developer, Team Amethyst \(CraftSetu\)) Tj
+/F1 8 Tf
+0 -9.5 Td
+() Tj
+/F2 10 Tf
+0 -15 Td
+(CERTIFICATIONS) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* 5x Google Cloud Skill Badges - Google Cloud Platform \(2026\)) Tj
+/F1 8 Tf
+0 -9.5 Td
+(* Introduction to AI & ML - LinkedIn Learning \(2026\)) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000378 00000 n 
+trailer
+<<
+  /Size 5
+  /Root 1 0 R
+>>
+startxref
+4266
+%%EOF
